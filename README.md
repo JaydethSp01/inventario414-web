@@ -1,2 +1,3 @@
-# inventario414-web
-ScrumDev AI frontend (inventario414-web)
+# INVENTARIO414 - Frontend
+
+Next.js desplegado en Vercel.
